@@ -1,0 +1,108 @@
+                                 QUARK-158
+                                 ~~~~~~~~~
+                             * DOCUMENTATION *
+
+QUARK-79 is greatly affiliated with it's sequel, QUARK-158. Every effort has
+been made to make QUARK-158 a better game than QUARK-79, and at the same time,
+to preserve the orginal theme and story of QUARK-79.
+
+                                  -STORY-
+
+In the first episode, the heroic Mike Maelstrom had set out in the QUARK-79
+spaceship to destroy the Soviet Space Flotilla and its gigantic "Mother Ship". 
+Upon completing this task, the Galactic Federation of Planets (GFP) unanimously 
+decided to elect him as its own new president. To justify this great office, 
+Maelstrom at once set to righting the wrongs caused by the Soviet Space 
+Flotilla...
+
+Two years later, the blueprints for the QUARK-79 spaceship were stolen by a 
+traitor and handed over to Igor Nemisvitz, the Socialist Dictator of Mars.
+Soon, hundreds of QUARK-79 clones began showing up, trashing the universe
+and making havoc of the GFP's attempts at peace. Finally, Maelstrom went to
+work on a new project: the QUARK-158 spaceship. Its purpose: to take on the
+army of QUARK-79 clones, to annihilate the infamous traitor guilty of stealing
+the QUARK-79 blueprints, and to destroy the QUARK-79 clone factory on Mars, 
+which creates dozens of these powerful machines daily.
+
+                               -THE MISSION-
+
+Your mission will take you across the galaxy and onto many planets. Due to the
+GFP's peaceful endeavors over the past two years, however, the planets remain
+fairly peaceful. But there are many dangers:
+
+* QUARK-79 clones
+With powerful laser cannons and the ability to warp around the solar system, 
+you're likely to find these ships anywhere. (A comparison of the QUARK-79 and
+QUARK-158 are offered at the end of this document)
+* The Asteroid Belt
+Be cautious when you enter the asteroid belt. Drifting through this thick wave
+of debris are many dense asteroids. It is not too difficult to avoid them,
+but stay on your toes: on direct hit can ruin your whole day.
+* The Black Hole
+This strange vacuum floats around the galaxy sucking in any loose material.
+I advise you to stay away from it, because it is not easy to escape once you
+get sucked in.
+
+                                 -CONTROLS-
+* SOLAR SYSTEM SCREEN
+Numeric keypad arrows move ship; moving into the center of a planet
+will cause the ship to land.
+* SHIP-TO-SHIP FIGHT SCREEN
+Numeric keypad arrows move crosshair; '5' fires laser cannons.
+* ASTEROID BELT ESCAPE SCREEN
+Numeric keypad arrows move ship.
+* BLACK HOLE ESCAPE SCREEN
+Numeric keypad arrows move ship.
+* PLANET ADVENTURE SCREEN
+Numeric keypad arrows move man; moving into a door will cause you to
+enter a building. Moving onto your spaceship will cause the ship to launch.
+* DIALOGUE SCREEN
+Read the dialogue supplied by the other characters; enter your diologue and
+press [Enter]. (Maelstrom's dialogue should be typed in only one case. There
+should either be all capital letters or no capital letters)
+
+                             -TROUBLESHOOTING-
+
+PROBLEM:
+The game will not work at all.
+SOLUTION(S):
+1.) You must be in the QUARK-158 directory before running QUARK-158.
+2.) The program requires Microsoft QBasic; it will not function without it.
+
+PROBLEM:
+The characters will not accept my dialogue.
+SOLUTION(S):
+1.) Use only one case. 
+2.) Use simple dialogues (1 or 2 words) 
+3.) Do not use any commas
+
+PROBLEM:
+My laser cannon will not fire.
+SOLUTION(S):
+1.) Make sure NUM LOCK is on.
+2.) The cannon will not fire if your ship is out of power.
+
+                                  -CLUES-                               
+
+If you forgot where your next destination should be, or if you need a clue, 
+visit King Don Juan Carlos IV on Jupiter, your home planet.                               
+                               
+* POWER UNITS
+The QUARK-158 spaceship is run on power units.
+@ Every time you move your spaceship, you use 1 power unit.
+@ Every time you shoot your laser cannon, you use 10 power units.
+@ Every time you get shot by an enemy ship, your shield uses 100 power units.
+@ The black hole and the asteroids drain your power on contact, killing you.
+@ You can refill your power units at any planet. (MAXIMUM POWER: 500)
+
+                               -COMPARISON-
+
+A simple comparison of the QUARK ships:
+
+QUARK-79                                     QUARK-158
+warping abilities                            no warping power
+heat-seeking laser cannon                    manually operated laser cannon
+no protective shield                         shield run by power units
+
+
+QUARK-79 and QUARK-158 are brought to you by RAYMOND NAGEL PRODUCTIONS.

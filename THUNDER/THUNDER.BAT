@@ -1,0 +1,4 @@
+@ECHO OFF
+CLS
+qbasic /RUN THUNDER.BEG
+

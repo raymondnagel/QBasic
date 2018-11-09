@@ -1,0 +1,44 @@
+Summary-
+Vartra's Bell is an adventure game that will take many hours to play. The
+player will travel around the imaginary country of Tiwarel as he searches
+for a legendary bell that will bring peace to the land. The player must
+meet many people, fight many monsters, and find many items to succeed and
+complete the quest.
+Begin Game-
+Open the icon labled 'Vartra' to start the game. You will see the title
+screen. Press enter. You will see the file select screen. If you select
+an empty file, you can begin a new quest. Or you can select a named file
+to continue a previously started game. Enter the number of the quest you
+wish to play (1, 2, or 3). At the file select screen, if you would like
+to exit the game, press the [Esc] button.
+SPECIAL NOTE: If you press 4, you can delete the contents of any file
+so that you can begin a new quest in that file.
+Display-
+The main viewport for the game is in a large window which occupies most
+of the screen. It is through this viewport that you will explore the land
+of Tiwarel. Your current weapon is displayed in a small window at the
+left. Another window displays your lifemeter, which measures the vitality
+of your character. If the red portion of the meter is depleted, you will
+The arrow keys move your character up, left, down, or right. The right
+[Ctrl] button will cause your character to throw his weapon. The
+[Spacebar] will change the lifemeter display to the item display.
+When the item display is visible, use the right [Shift] button to
+switch to a different item (the selected item will be marked with
+an orange triangle). When the right [Alt] button is pressed, the
+selected item will be used.
+SPECIAL NOTE: The [NumLock] and [CapsLock] must be turned off
+for the controls to work.
+Other Stuff-
+You can collect items (key, heart, coin, treasure chest) by moving
+into them. You can read a sign or engraved tablet by moving into it. You
+can also talk to people you meet by moving onto them. Locks can be opened
+only if you have a key. Each key can only be used once. Every heart that
+you collect with restore a portion of your lifemeter. After every castle
+that you conquer, your lifemeter will grow, making you stronger.
+Programmer's Info- (Ignore this)
+Vartra's Bell was written using Microsoft QuickBasic v7.1
+It uses a VGA 256-color screen mode (320 x 200 pixels).
+To be operated in Windows, the Screen property tab in the 'vartra.bat'
+file should have the option 'Full-screen mode' selected. Do not
+change this.
+
